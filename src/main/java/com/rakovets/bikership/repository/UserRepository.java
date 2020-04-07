@@ -1,5 +1,6 @@
-package com.rakovets.bikership;
+package com.rakovets.bikership.repository;
 
+import com.rakovets.bikership.entity.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

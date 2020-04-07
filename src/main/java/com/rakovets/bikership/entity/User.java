@@ -1,4 +1,4 @@
-package com.rakovets.bikership;
+package com.rakovets.bikership.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
